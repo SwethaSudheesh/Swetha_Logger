@@ -1,0 +1,8 @@
+2020-02-25 22:05:54 INFO  App:13 - Calculate Simple intrest and Compound interest 
+2020-02-25 22:05:54 INFO  App:14 - 1. Simple intrest
+2020-02-25 22:05:54 INFO  App:15 - 2. Compound intrest
+2020-02-25 22:05:54 INFO  App:16 - 3. Construction Cost
+2020-02-25 22:05:56 INFO  App:12 - enter the value of initial amount of the loan taken
+2020-02-25 22:05:59 INFO  App:15 - enter the of rate of interest
+2020-02-25 22:06:02 INFO  App:18 - enter the of term of loan in deposit (time in years)
+2020-02-25 22:06:03 INFO  App:20 - 360

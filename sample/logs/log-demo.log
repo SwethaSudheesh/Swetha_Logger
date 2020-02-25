@@ -1,0 +1,12 @@
+2020-02-25 22:07:32 INFO  App:13 - Calculate Simple intrest and Compound interest 
+2020-02-25 22:07:32 INFO  App:14 - 1. Simple intrest
+2020-02-25 22:07:32 INFO  App:15 - 2. Compound intrest
+2020-02-25 22:07:32 INFO  App:16 - 3. Construction Cost
+2020-02-25 22:07:36 INFO  App:11 - Enter the length of Rectangle:
+2020-02-25 22:07:41 INFO  App:13 - Enter the width of Rectangle:
+2020-02-25 22:07:44 INFO  App:16 - Enter the type of material to be used
+2020-02-25 22:07:44 INFO  App:17 - 1. Standard materials
+2020-02-25 22:07:44 INFO  App:18 - 2. Above standard materials
+2020-02-25 22:07:44 INFO  App:19 - 3. High standard material
+2020-02-25 22:07:44 INFO  App:20 - 4. High standard material and fully automated house
+2020-02-25 22:07:46 INFO  App:29 - 24000000
